@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">왕좌의게임:윈터이즈커밍 하자</string>
+    <string name="app_service">왕좌의게임:윈터이즈커밍 하자 서비스</string>
+    <string name="app_service_start">왕좌의게임:윈터이즈커밍 하자 서비스가 시작되었습니다.</string>
+    <string name="app_service_thread_stop">정지되었습니다.</string>
+    <string name="app_service_thread_start">시작되었습니다.</string>
+    <string name="app_service_stop">왕좌의게임:윈터이즈커밍 하자 서비스가 종료되었습니다.</string>
+    <string name="channel_name">왕좌의게임:윈터이즈커밍 하자</string>
+    <string name="channel_description">왕좌의게임:윈터이즈커밍 하자</string>
+    <string name="accessibility_service_label">왕좌의게임:윈터이즈커밍 하자</string>
+    <string name="accessibility_service_description">왕좌의게임:윈터이즈커밍 하자</string>
+
+    <string name="label_1">수령</string>
+    <string name="label_2">도움</string>
+</resources>
