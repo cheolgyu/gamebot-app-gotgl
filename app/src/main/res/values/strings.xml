@@ -1,5 +1,30 @@
 <resources>
     <string name="app_name">왕좌의게임:윈터이즈커밍 하자</string>
+    <string name="manual">
+        <![CDATA[
+<h3>
+    <h2>설명서</h2>
+    <p>
+        소개
+    <ul>
+        <li>이미지를 학습하여 현재화면에서 같은 이미지를 클릭합니다.</li>
+        <li>블루스택 앱플레이어 되고 녹스 앱플레이어에서는 안됩니다.</li>
+    </ul>
+    </p>
+    <p>
+        사용법
+    <ol>
+        <li>1. 성 밖으로 나가기</li>
+        <li>2. 화면을 바다위로 옴기기 </li>
+    </ol>
+    </p>
+    <p> 주의! <br /> 가방, 결제 화면에서 정확도가 낮아 클릭될 수 있으니 정지 후 이용하시기 바랍니다.</p>
+</h3>
+
+        ]]>
+
+
+    </string>
     <string name="app_service">왕좌의게임:윈터이즈커밍 하자 서비스</string>
     <string name="app_service_start">왕좌의게임:윈터이즈커밍 하자 서비스가 시작되었습니다.</string>
     <string name="app_service_thread_stop">정지되었습니다.</string>
@@ -12,4 +37,6 @@
 
     <string name="label_1">수령</string>
     <string name="label_2">도움</string>
+    <string name="label_3">확인</string>
+    <string name="label_4">상태바</string>
 </resources>
