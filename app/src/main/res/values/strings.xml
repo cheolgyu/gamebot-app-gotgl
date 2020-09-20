@@ -38,5 +38,10 @@
     <string name="label_1">수령</string>
     <string name="label_2">도움</string>
     <string name="label_3">확인</string>
-    <string name="label_4">상태바</string>
+    <string name="label_4">할리스</string>
+    <string name="label_5">식량</string>
+    <string name="label_6">목재</string>
+    <string name="label_7">석재</string>
+    <string name="label_8">철광</string>
+    <string name="label_9">음식</string>
 </resources>
